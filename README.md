@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me 
-I`am a Software Engineer student living in Ankara/Turkey.
-For now, I am developing myself as a web developer.
+I`am a Software Engineer student living in Ankara/Turkey
+For now, I am developing myself as a web developer
 I`am I love to write javascript and learn different frameworks.
 
-[my blog](https://medium.com/@cokyamanmuhammet)
-[linkedin](https://www.linkedin.com/in/muhammet-%C3%A7okyaman-ba9591197/)
-[my website](muhammetcokyaman.com)
+
+[🤔my blog](https://medium.com/@cokyamanmuhammet)
+
+[💬linkedin](https://www.linkedin.com/in/muhammet-%C3%A7okyaman-ba9591197/)
+
+[🔭my website](muhammetcokyaman.com)

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Muhammet here 👋
 
 <!--
 **cokyaman65/cokyaman65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I`am a Software Engineer student living in Ankara/Turkey. For now, I am developing myself as a web developer.
+### I`am I love to write javascript and learn different frameworks.
+
+[my blog](https://medium.com/@cokyamanmuhammet)
+[linkedin](https://www.linkedin.com/in/muhammet-%C3%A7okyaman-ba9591197/)
+[my website](muhammetcokyaman.com)

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me 
-I`am a Software Engineer student living in Ankara/Turkey
+I am a Software Engineer student living in Ankara/Turkey
 For now, I am developing myself as a web developer 
 *I`am love to write javascript and learn different frameworks.*
 

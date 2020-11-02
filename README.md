@@ -1,8 +1,8 @@
 ### Hi, Muhammet here 👋
 
 - 🔭 I’m currently working on 
-        * **Javascript 
-        * **React&Redux, 
+        * Javascript 
+        * React&Redux, 
 - 🌱 I’m currently learning 
         * **ASP.NET Mvc 
           **Node.js

@@ -1,29 +1,9 @@
 ### Hi, Muhammet here 👋
 
-<!--
-**cokyaman65/cokyaman65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Javascript, React&Redux, 
+- 🌱 I’m currently learning **ASP.NET Mvc, Node.js, Vue.js
+- 💻 I’m a Software Engineer Student , I live in [Ankara/Turkey]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[Başlığa sahip bir yazı içi linkiyim](https://www.google.com "Google Anasayfa")
-### About Me 
-I am a Software Engineer student
-I living in Ankara/Turkey
-For now I am developing myself as a web developer 
-*I am love to write javascript and learn different frameworks *
-
-
-[🤔my blog](https://medium.com/@cokyamanmuhammet)
-
-[💬linkedin](https://www.linkedin.com/in/muhammet-%C3%A7okyaman-ba9591197/)
-
-[🔭my website](muhammetcokyaman.com)
+-[🤔Blog](https://medium.com/@cokyamanmuhammet)
+-[💬Linkedin](https://www.linkedin.com/in/muhammet-%C3%A7okyaman-ba9591197/)
+-[🔭Website](muhammetcokyaman.com)

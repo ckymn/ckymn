@@ -1,9 +1,9 @@
 ### Hi, Muhammet here 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on :
         - **Javascript** 
         - **React&Redux** 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning :
         - **ASP.NET Mvc** 
         - **Node.js**
         - **Vue.js**

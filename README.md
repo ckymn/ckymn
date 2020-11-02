@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Başlığa sahip bir yazı içi linkiyim](https://www.google.com "Google Anasayfa")
 ### About Me 
 I am a Software Engineer student
 I living in Ankara/Turkey

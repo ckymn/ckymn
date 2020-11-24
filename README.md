@@ -1,7 +1,6 @@
-### [Hi, Muhammet here! 👋]
+### Hi, Muhammet here! 👋
 
 - 🔭 I’m currently working on
-
         •Javascript 
         •React & Redux 
 

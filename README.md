@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  ### 💻 Connect With Me:
-<img height="26" width="26" src="https://twitter.com/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
 
  ### 👀 Languages and Tools :
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -16,8 +16,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- 
- 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
           
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cokyaman65&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cokyaman65&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-### Hi, Muhammet(http://muhammetcokyaman.com)here! 👋
+### Hi, [Muhammet](http://muhammetcokyaman.com) here! 👋
 
 - 🔭 I’m currently working on
 

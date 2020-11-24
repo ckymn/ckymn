@@ -16,7 +16,7 @@
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/muhammet-çokyaman-ba9591197/)
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/cokyaman65)
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/cokyaman65)--
 
 
 
@@ -29,7 +29,7 @@
 
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="CSharp" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="CSharp" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
 
@@ -45,7 +45,7 @@
 
 <img align="left" alt="Css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Css" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Css" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 
 

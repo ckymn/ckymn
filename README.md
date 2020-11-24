@@ -1,11 +1,11 @@
-  ### Hi, [Muhammet](http://muhammetcokyaman.com) here! 👋
+  # Hi, [Muhammet](http://muhammetcokyaman.com) here! 👋
                                                                 I‘m Open Source Developer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- ## 💻 Connect With Me:
-[<img align="left" alt="codeSTACKr | Twitter"width="22px" src="http://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />][twitter]
+ ### 💻 Connect With Me:
+<img align="left" alt="codeSTACKr | Twitter"width="22px" src="http://cdn.jsdelivr.net/npm/simple-icon@v3/icons/twitter.svg" />[twitter]
 
- ## 👀 Languages and Tools :
+ ### 👀 Languages and Tools :
 <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />

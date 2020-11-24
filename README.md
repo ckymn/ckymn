@@ -18,3 +18,4 @@
 - [💬Linkedin](https://www.linkedin.com/in/muhammet-%C3%A7okyaman-ba9591197/)
 
 ![](https://komarev.com/ghpvc/?username=cokyaman65)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cokyaman65)](https://github.com/anuraghazra/github-readme-stats)

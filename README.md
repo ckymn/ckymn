@@ -1,4 +1,4 @@
-### Hi, ```diff Muhammet red ``` here! 👋
+### Hi, Muhammet(http://muhammetcokyaman.com)here! 👋
 
 - 🔭 I’m currently working on
 
@@ -28,17 +28,3 @@
 # text in gray
 @@ text in purple (and bold)@@
 ```
-
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
-// etc.

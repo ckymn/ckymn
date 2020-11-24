@@ -1,7 +1,8 @@
   # Hi, [Muhammet](http://muhammetcokyaman.com) here! 👋
                                                             I‘m Open Source Developer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](https://komarev.com/ghpvc/?username=cokyaman65&color=black)
+![](https://komarev.com/ghpvc/?username=cokyaman65&color=blue)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/M_ckymn?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
  ### 💻 Connect With Me:

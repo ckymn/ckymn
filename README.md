@@ -1,4 +1,4 @@
-## Hi, 〽[Muhammet](http://muhammetcokyaman.com) here! 👋
+## Hi, [〽uhammet](http://muhammetcokyaman.com) here! 👋
                                                             I‘m Open Source Developer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://komarev.com/ghpvc/?username=cokyaman65&color=blue)

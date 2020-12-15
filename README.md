@@ -1,4 +1,5 @@
-## Hi, [〽uhammet](http://muhammetcokyaman.com) here! 👋
+## Hi, [〽uhammet](http://muhammetcokyaman.com) here! 👋 
+## [![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet)](https://findmentor.network/peer/cokyaman65)
                                                             I‘m Open Source Developer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://komarev.com/ghpvc/?username=cokyaman65&color=blue)
@@ -7,7 +8,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cokyaman65&show_icons=true&theme=tokyonight)
 
-[![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet)](https://findmentor.network/peer/cokyaman65)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 

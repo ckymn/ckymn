@@ -17,7 +17,6 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/M_ckymn)
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/ckymn)
-[<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>](http://linkedin.com/in/ckymn)
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/cokyaman65)//
 

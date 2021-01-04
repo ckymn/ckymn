@@ -2,11 +2,11 @@
 ## [![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet)](https://findmentor.network/peer/cokyaman65)
                                                             I‘m Open Source Developer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![](https://komarev.com/ghpvc/?username=cokyaman65&color=blue)
+![](https://komarev.com/ghpvc/?username=ckymn&color=blue)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/M_ckymn?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cokyaman65&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ckymn&show_icons=true&theme=tokyonight)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,6 +17,7 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/M_ckymn)
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/muhammet-çokyaman-ba9591197/)
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/cokyaman65)//
 

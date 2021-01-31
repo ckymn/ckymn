@@ -1,6 +1,4 @@
-## Hi, [〽uhammet](http://muhammetcokyaman.com) here! 👋 
-## [![Mentee](https://img.shields.io/badge/Find%20Mentor-I'm%20a%20mentee-blueviolet)](https://findmentor.network/peer/cokyaman65)
-
+<h1 align="center"> Hi, [〽uhammet](http://muhammetcokyaman.com) here! 👋 </h1>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)

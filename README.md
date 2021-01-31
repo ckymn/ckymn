@@ -12,7 +12,7 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/12209353/ckymn)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/ckymn)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ckymn&show_icons=true&theme=tokyonight)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckymn&show_icons=true&theme=tokyonight" alt="ckymn" /></p>
 
 
 

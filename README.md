@@ -7,14 +7,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckymn&show_icons=true&theme=tokyonight" alt="ckymn" /></p>
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/M_ckymn)
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/ckymn)
-[<img align="left" width="26px" color="#a91d11" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg"/>](https://codepen.io/cokyaman65)
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/12209353/ckymn)
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/ckymn)
-
-
-
 <p align="center">
-    <a href="https://twitter.com/M_ckymn" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="ckymn" height="30" width="30" /></a>    
+  <a href="https://twitter.com/M_ckymn" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="ckymn" height="30" width="30" /></a>    
+  <a href="http://linkedin.com/in/ckymn/" target="blank"><img align="center" src="https://simpleicons.org/icons/medium.svg" alt="ckymn" height="30" width="30" /></a>         
+  <ahref="https://medium.com/@cokyamanmuhammet/" target="blank"><img align="center" src="https://simpleicons.org/icons/medium.svg" alt="ckymn" height="30" width="30" /></a>     
+  <a href="https://www.hackerrank.com/ckymn/" target="blank"><img align="center" src="https://simpleicons.org/icons/medium.svg" alt="ckymn" height="30" width="30" /></a>      
 </p>

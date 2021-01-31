@@ -8,8 +8,10 @@
 ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-
-[Twitter / ](https://twitter.com/M_ckymn)
+[<td>
+  <tr>twitter</tr>
+</td>]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/M_ckymn)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/in/ckymn)
 [<img align="left" width="26px" color="#a91d11" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />](https://codepen.io/cokyaman65)
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/12209353/ckymn)

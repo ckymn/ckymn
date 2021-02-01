@@ -13,4 +13,3 @@
   <a href="https://medium.com/@cokyamanmuhammet/" target="blank"><img align="center" src="https://simpleicons.org/icons/medium.svg" alt="ckymn" height="30" width="30" /></a>     
   <a href="https://www.hackerrank.com/ckymn/" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="ckymn" height="30" width="30" /></a>    
 </p>
-    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nqf21ubm33qqhza1j1zasz2uq&cover_image=true&theme=natemoo-re)](https://github.com/ckymn/spotify-github-profile)

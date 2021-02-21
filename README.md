@@ -4,7 +4,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Hook](https://img.shields.io/badge/-ReactHook-black?style=flat-square&logo=reacthook)
+![Redux&Hook](https://img.shields.io/badge/-ReactHook-black?style=flat-square&logo=reacthook)
 ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Material-ui](https://img.shields.io/badge/-Material-black?style=flat-square&logo=Material-ui)

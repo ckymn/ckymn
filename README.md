@@ -5,6 +5,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat-square&logo=Mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Material-ui](https://img.shields.io/badge/-Material-black?style=flat-square&logo=Material-ui)
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckymn&show_icons=true&theme=tokyonight" alt="ckymn" /></p>

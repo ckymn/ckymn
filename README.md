@@ -5,7 +5,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Material-ui](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Material-ui)
+![Material-ui](https://img.shields.io/badge/-Material-ui-black?style=flat-square&logo=Material-ui)
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ckymn&show_icons=true&theme=tokyonight" alt="ckymn" /></p>
 
 <p align="center">

@@ -1,10 +1,10 @@
 
 ### Hello, 👋 I'm **〽uhammet**
 
-I'm a passionate **software developer** living in **Ankara, Turkey**, working for [Noxarac](https://noxarac.com).
-I love **open source development** and I build things on my GitHub profile (here).
-I love **JavaScript**.
-I love **C++**.
+I'm a passionate **software developer** living in **Ankara, Turkey**, working for [Noxarac](https://noxarac.com)<br/>
+I love **open source development** and I build things on my GitHub profile (here)<br/>
+I love **JavaScript**<br/>
+I love **C++**<br/>
 
 
 
@@ -25,10 +25,10 @@ I love **C++**.
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Vim](https://img.shields.io/badge/-vim%20Studio%20Code-05122A?style=flat&logo=vim&logoColor=007ACC)&nbsp;
+![Vim](https://img.shields.io/badge/-vim%20Studio%20Code-05122A?style=flat&logo=vim&logoColor=greeen)&nbsp;
 
 
-### 🔖 &nbsp;My Last Raindrops
+### 🔖 &nbsp;My Blog Post
 - [With JavaScript Singly Linked List ?](https://cokyamanmuhammet.medium.com/javascript-ile-linkedlist-1-ffc29607fd20)
 - [Wtih JavaScript Doubly Linked List](https://cokyamanmuhammet.medium.com/javascript-ile-doubly-linkedlist-2-de7a070189e3)
 - [With JavaScirpt Circular Linekd List](https://cokyamanmuhammet.medium.com/javascript-ile-circular-doubly-linkedlist-2-381199f45857)

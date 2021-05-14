@@ -7,11 +7,6 @@ I love **JavaScript**<br/>
 I love **C++**<br/>
 
 
-### Some Codes:
-![StackBlitz](https://stackblitz.com/@ckymn)
-
-
-
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

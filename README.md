@@ -4,7 +4,9 @@
 I'm a passionate **software developer** living in **Ankara, Turkey**, working for [Noxarac](https://www.noxarc.com/)<br/>
 I love **open source development** and I build things on my GitHub profile (here)<br/>
 I love **JavaScript**<br/>
-I love **Pyhton**<br/>
+I'm trying to learn **Pyhton**<br/>
+I'm trying to learn **Go**<br/>
+
 
 
 ### Languages and Tools:

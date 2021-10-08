@@ -5,7 +5,6 @@ I'm a passionate **software developer** living in **Ankara, Turkey**, I work as 
 I love **open source development** and I build things on my GitHub profile (here)<br/>
 I love **JavaScript**<br/>
 I'm trying to learn **Pyhton**<br/>
-I'm trying to learn **Go**<br/>
 
 
 

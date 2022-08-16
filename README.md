@@ -4,7 +4,7 @@
 I'm a passionate **software developer** living in **Ankara, Turkey**, I work as a [Freelancer](https://www.linkedin.com/in/ckymn)<br/>
 I love **open source development** and I build things on my GitHub profile (here)<br/>
 I love **JavaScript**<br/>
-I'm trying to learn **Go**<br/>
+I'm trying to write **Go**<br/>
 
 [Buy Me a Coffe 🧋](https://www.buymeacoffee.com/ckymn)
 

@@ -50,15 +50,6 @@ I'm trying to write **Go**<br/>
 <br/>
 
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://twitter.com/ckymn"><img src="https://img.shields.io/badge/M_ckymn-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ckymn/"><img src="https://img.shields.io/badge/ckymn-1da1f2?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/m_ckymn"><img src="https://img.shields.io/badge/m_ckymn-1da1f2?style=flat&logo=Instagram&logoColor=white"/></a>
-
-</p>
-
 <details>
   <summary>More...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=ckymn&show_icons=true&count_private=true&theme=dark" />
